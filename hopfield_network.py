@@ -2,8 +2,8 @@
 =============================================================
   Soft Computing Mini Project 2
   Title  : Hopfield Network for Pattern Storage and Retrieval
-  Author : Abhishek Yadav
-  System id: 2026303464
+  Author : Abhinav Singh
+  System id: 2026321220
 =============================================================
 
 Description:
