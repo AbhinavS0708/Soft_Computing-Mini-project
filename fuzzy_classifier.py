@@ -2,8 +2,8 @@
 =============================================================
   Soft Computing Mini Project 1
   Title  : Fuzzy Logic Classifier for Iris Dataset
-  Author : Abhishek Yadav
-  System Id: 2026303464
+  Author : Abhinav Singh
+  System Id: 2026321220
 =============================================================
 
 Description:
